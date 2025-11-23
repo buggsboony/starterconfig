@@ -1,0 +1,12 @@
+VISUAL :
+
+Big Cursor (settings)
+Seconds in time widget
+Raccourcis browser
+
+
+
+BACKGROUND :
+install yay
+build midori with yay
+install chromium ? or build chromium
